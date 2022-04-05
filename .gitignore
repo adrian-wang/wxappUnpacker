@@ -2,5 +2,5 @@
 example/
 node_modules/
 package-lock.json
-yimuhaha
-yimuhaha.pub
+*.wxapkg
+.DS_Store
